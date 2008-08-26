@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>%link{ :rel =&gt; '${1:stylesheet}', :href =&gt; '${2:/css/style.css}', :type =&gt; '${3:text/css}'${4:, :media =&gt; '${5:screen, projection}'} }
+$0</string>
+	<key>name</key>
+	<string>link</string>
+	<key>scope</key>
+	<string>source.ruby.haml</string>
+	<key>tabTrigger</key>
+	<string>link</string>
+	<key>uuid</key>
+	<string>E87910F1-F7A9-4407-9355-1B2E6D1032F0</string>
+</dict>
+</plist>
