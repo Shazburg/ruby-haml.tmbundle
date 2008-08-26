@@ -1,3 +1,5 @@
+THIS IS IN NO WAY AN OFFICIAL BUNDLE; I FOUND THE HAML BUNDLE WANTING AND THOUGHT OTHERS WOULD FEEL THE SAME.
+
 A few things that have been added:
 
   * Language is now source.ruby.haml. This lets us inherit Ruby magic very nicely.
