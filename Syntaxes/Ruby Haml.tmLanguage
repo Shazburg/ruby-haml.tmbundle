@@ -199,7 +199,7 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>^\s*(?==|-|~)</string>
+			<string>^\s*(?==|-|~|&amp;=)</string>
 			<key>end</key>
 			<string>$</string>
 			<key>patterns</key>
